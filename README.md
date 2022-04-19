@@ -9,8 +9,8 @@
   <a href="#documantation-of-the-api">Documantation</a>
 </p>
 <div align="center">
-  <a href="https://github.com/alura-challenges/challenge-back-end">
-    <img alt="Alura Challenge Github" src="https://img.shields.io/badge/Alura-Challenge-%2300C86F">
+  <a href="https://github.com/alura-challenges/challengebackend2">
+    <img alt="Alura Challenge Backend 2 Github" src="https://img.shields.io/badge/Alura-Challenge%20Backend%202-%2300C86F">
   </a>
   <a href="https://www.python.org/downloads/">
     <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/djangorestframework?color=%2300C86F">
@@ -18,7 +18,7 @@
   <a href="https://www.django-rest-framework.org/#requirements">
     <img alt="PyPI - Django Version" src="https://img.shields.io/pypi/djversions/djangorestframework?color=%2300C86F">
   </a>
-  <a href="https://github.com/luigiMinardi/alurachallenge-backend/blob/main/LICENSE">
+  <a href="./LICENSE">
     <img alt="GitHub license" src="https://img.shields.io/badge/license-MIT-%2300C86F">
   </a>
   <a href="https://pypi.org/project/djangorestframework/">
